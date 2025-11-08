@@ -1,1 +1,1 @@
-﻿Tiene que separar el btn eliminiar y el modificar tanto en el diseno como en la logica
+﻿Estudiante: Johan Antonio Corniell Santana
